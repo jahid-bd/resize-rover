@@ -4,7 +4,7 @@
 
 ResizeRover is an interactive, dynamic card grid application built with React and TypeScript. It allows users to create, resize, and manage cards in a flexible grid layout with intuitive drag-and-resize functionality.
 
-![ResizeRover Demo](assets/image.png)
+![ResizeRover Demo](src/assets/image.png)
 
 ## 🚀 Features
 
